@@ -1,0 +1,10 @@
+{
+  "email": "testing-user@mailinator.com",
+  "name": "Haris Hariauskas",
+  "phone": "+37060000000000000",
+  "custom": "No",
+  "country": "Lithuania",
+  "address": "Akmenės NORFA Daukanto paštomatas, S. Daukanto g. 7",
+  "productCount": 5,
+  "shippingOptions": [ "omniva", "lpexpress", "dpdpickup"]
+}
