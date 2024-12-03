@@ -1,6 +1,6 @@
 # H-PLAYWRIGHT-TESTS
 
-This project automates the purchase flow using [Playwright](https://playwright.dev/). It includes steps to navigate the shop, add products to the cart, and proceed to checkout using different shipping options.
+This project automates the purchase flow using [Playwright](https://playwright.dev/) and **TypeScript**. It includes steps to navigate the shop, add products to the cart, and proceed to checkout using different shipping options.
 
 ## Project Structure
 
